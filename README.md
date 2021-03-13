@@ -1,4 +1,4 @@
-# `choco_raisin`
+# `choco-raisin`
 Chocolate chip vs raisin cookies image classification with [fastai](https://docs.fast.ai/)
 
 ## Repository Structure
