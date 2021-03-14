@@ -3,7 +3,7 @@ Chocolate chip vs raisin cookies image classification with [fastai](https://docs
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cstorm125/choco-raisin/blob/main/notebooks/train_image_classification.ipynb)
 
-Our goal is to train a model that saves humanity for the repeated tragedy:
+Our goal is to train a model that saves humanity from the repeated tragedy:
 
 ![cookies](images/choco_raisin_meme.jpg)
 
