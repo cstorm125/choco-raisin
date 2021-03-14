@@ -7,7 +7,7 @@ Chocolate chip vs raisin cookies image classification with [fastai](https://docs
 - images
     - train
         -chocolate chip (572 images)
-        - raisin (571 images)
+        - raisin (570 images)
     - valid
         -chocolate chip (144 images)
         - raisin (140 images)
