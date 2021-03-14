@@ -7,6 +7,8 @@ Our goal is to train a model that saves humanity for the repeated tragedy:
 
 ![cookies](images/choco_raisin_meme.jpg)
 
+We train a chocalate chip cookies vs raisin cookies image classifier with data obtained from [DuckDuckGo](http://duckduckgo.com/) image search. We obtained over 85% accruacy in the validation set.
+
 ## Repository Structure
 
 ```
