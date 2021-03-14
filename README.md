@@ -1,5 +1,6 @@
 # `choco-raisin`
 Chocolate chip vs raisin cookies image classification with [fastai](https://docs.fast.ai/)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cstorm125/choco-raisin/blob/main/notebooks/train_image_classification.ipynb)
 
 ## Repository Structure
 
