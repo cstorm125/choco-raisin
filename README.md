@@ -1,7 +1,9 @@
 # `choco-raisin`
 Chocolate chip vs raisin cookies image classification with [fastai](https://docs.fast.ai/)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cstorm125/choco-raisin/blob/main/notebooks/train_image_classification.ipynb)
+Training notebook: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cstorm125/choco-raisin/blob/main/notebooks/train_image_classification.ipynb) 
+
+Inference webapp: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cstorm125/choco-raisin/main?urlpath=voila%2Frender%2Fnotebooks%2Finferencer.ipynb)
 
 Our goal is to train a model that saves humanity from the repeated tragedy:
 
