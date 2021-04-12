@@ -26,3 +26,6 @@ We train a chocalate chip cookies vs raisin cookies image classifier with data o
     - train_valid_splits.ipynb; splits and clean by hand
     - download_images.ipynb; download images
 ```
+
+## Authors
+@ben-mj and @cstorm125
