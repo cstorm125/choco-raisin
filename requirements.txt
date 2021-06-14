@@ -1,7 +1,2 @@
-bqplot
-ipympl
-ipyvolume
-scipy
-voila
 fastai==2.3.0
 streamlit
