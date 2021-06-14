@@ -3,7 +3,6 @@ from fastai.vision.all import (
     PILImage,
     Resize,
 )
-import matplotlib.image as mpimg
 import glob
 from random import shuffle
 import streamlit as st
