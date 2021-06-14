@@ -4,5 +4,4 @@ ipyvolume
 scipy
 voila
 fastai==2.3.0
-glob
 streamlit
