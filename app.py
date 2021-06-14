@@ -5,13 +5,16 @@ from fastai.vision.all import (
 )
 import glob
 from random import shuffle
+import urllib.request
 import streamlit as st
 
 
 # set app title
 st.title("Chocolate Chip vs Raisin Cookies")
 # load model
-learn_inf = load_learner('notebooks/models/resnet34_finetune1e3_5p.pkl', cpu=True)
+MODEL_URL = "https://github.com/cstorm125/choco-raisin/raw/main/notebooks/models/resnet34_finetune1e3_5p.pkl"
+urllib.request.urlretrieve(MODEL_URL, "model.pkl")
+learn_inf = load_learner('model.pkl', cpu=True)
 
 
 def predict(img, learn):
